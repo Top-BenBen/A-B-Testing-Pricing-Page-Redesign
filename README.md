@@ -87,3 +87,5 @@ To enhance monitoring and decision-making, consider:
 
 This spreadsheet reveals that the redesigned pricing page (Group B) significantly improves both conversion rate and revenue per visit without compromising engagement. The observed uplift is statistically valid, making a compelling case to adopt the new design organization-wide.
 
+
+### Click [`here`](https://docs.google.com/spreadsheets/d/1vn9sV1aJX1gmgYr14oIyH-k-SMhHxXoF/edit?gid=1825243757#gid=1825243757) for details
