@@ -1,6 +1,6 @@
 # A-B-Testing-Pricing-Page-Redesign
 
-## 📘 Documentation: A/B Testing – Pricing Page Redesign
+## Documentation: A/B Testing – Pricing Page Redesign
 
 ### 1. **Project Title & Goal**
 
@@ -33,7 +33,7 @@ The dataset captures user engagement metrics with the following columns:
 | **Upgrades (YES)**          | —       | —       |
 | **Non-Upgrades (NO)**       | —       | —       |
 
-⚠ Note: Specific counts for upgraded vs non-upgraded users are summarized in the workbook.
+Note: Specific counts for upgraded vs non-upgraded users are summarized in the workbook.
 
 
 
@@ -66,9 +66,9 @@ This suggests the pricing redesign significantly impacted revenue without signif
 
 ### 6. **Recommendations**
 
-* ✅ **Implement Group B design** across pricing pages due to strong conversion and revenue gains.
-* 🔍 **Monitor user flow and support funnel** to validate broader impact and uncover new optimization opportunities.
-* 📊 **Track long-term revenue** post-launch to ensure sustained results and watch for any behavioral shifts over time.
+* **Implement Group B design** across pricing pages due to strong conversion and revenue gains.
+* **Monitor user flow and support funnel** to validate broader impact and uncover new optimization opportunities.
+* **Track long-term revenue** post-launch to ensure sustained results and watch for any behavioral shifts over time.
 
 
 ### 7. **Dashboard & Workflow Suggestions**
